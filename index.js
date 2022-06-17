@@ -24,7 +24,13 @@ console.log(isPalindrome("eye9"));
 
 /* 
   Add your pseudocode here
-  bbbb
+  // Take in a string
+  // Check the string for any alphanumeric characters
+  // If it exists remove it by regex method and then convert it to lower case
+  // Reverse the string and then compare it to the value one inputs for palindrome
+  // If the string input is palindrom return true otherwise return false
+
+
 */
 
 /*
